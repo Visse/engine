@@ -1,0 +1,4 @@
+[Project]
+Name=Engine
+Manager=KDevCMakeManager
+VersionControl=kdevgit
