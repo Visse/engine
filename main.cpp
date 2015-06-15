@@ -1,6 +1,11 @@
 #include <iostream>
+#include <iomanip>
+#include <type_traits>
+
+#include "core/Array.h"
 
 int main(int argc, char **argv) {
-    std::cout << "Hello, world!" << std::endl;
+
+    
     return 0;
 }
